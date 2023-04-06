@@ -12,6 +12,3 @@ const cssProperty = (entrada) => {
     
 }
 cssProperty()
-
-
-
